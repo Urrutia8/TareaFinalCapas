@@ -1,0 +1,13 @@
+.leftSection {
+    background-color: #795548;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rightSection {
+    border:  1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
